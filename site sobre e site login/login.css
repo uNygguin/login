@@ -123,19 +123,26 @@ footer-section ul li a:hover {
 .footer-bottom p {
     margin: 0;
 }
-
+.datena{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+    
+}
 .container-login{
     display:flex;/*Ativa o Flexbox*/
     justify-content: center;/*Distribui os itens com espaço ao redor*/
     flex-wrap:wrap;/*Permite que os itens quebrem linha se não couberem*/
-    padding: 70px;
+    padding: 50px;
     margin: 50px;
     border: 5px solid #04185a;
     border-radius: 20px;
     overflow: hidden;
     width: 200px;/*Define uma largura fixapara cada item */
     background-color: #a1a0a0;
-    width: 16%;
+    width: 17%;
+    height: 14%;
     
 }
 
